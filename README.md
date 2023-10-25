@@ -1,7 +1,5 @@
 # Quiz App
 
-![Quiz App Logo](quiz-app-logo.png)
-
 Welcome to the Quiz App, a React-based quiz application that offers an engaging way to test your knowledge and compete for high scores within a time limit. This app features a sleek design and various functionalities to enhance your quiz-taking experience.
 
 ## Try it Out
